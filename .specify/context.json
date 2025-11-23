@@ -1,0 +1,8 @@
+{
+  "include": [
+    "docs/context/**/*.md",
+    "docs/**/*.txt",
+    "src",
+    "README.md"
+  ]
+}
